@@ -21,9 +21,9 @@ Você pode testar a calculadora diretamente no navegador! Basta inserir seu nome
 ![image](https://github.com/user-attachments/assets/55dd3274-924d-4fb4-92a8-22cc1b0ee422)
 
 ## 📂 Estrutura do Projeto
-/calculadora-imc │ 
-├── index.html # Arquivo HTML principal 
-├── style.css # Estilos CSS 
+/calculadora-imc │   
+├── index.html # Arquivo HTML principal   
+├── style.css # Estilos CSS   
 └── imc.js # Lógica do cálculo em JavaScript
 
 ## 📋 Como Usar
@@ -44,7 +44,7 @@ Você pode testar a calculadora diretamente no navegador! Basta inserir seu nome
 O resultado é classificado conforme a tabela abaixo:
 
 Abaixo de 18.5: Abaixo do peso.  
-18.5 a 24.9: Peso ideal (Parabéns!). 
+18.5 a 24.9: Peso ideal (Parabéns!).  
 25 a 29.9: Levemente acima do peso.  
 30 a 34.9: Obesidade grau I.  
 35 a 39.9: Obesidade grau II.  
