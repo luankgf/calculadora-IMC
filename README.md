@@ -43,9 +43,10 @@ Você pode testar a calculadora diretamente no navegador! Basta inserir seu nome
 **Classificações de IMC**
 O resultado é classificado conforme a tabela abaixo:
 
-Abaixo de 18.5: Abaixo do peso.
-18.5 a 24.9: Peso ideal (Parabéns!).
-25 a 29.9: Levemente acima do peso.
-30 a 34.9: Obesidade grau I.
-35 a 39.9: Obesidade grau II.
-40 ou mais: Obesidade grau III.
+Abaixo de 18.5: Abaixo do peso.  
+18.5 a 24.9: Peso ideal (Parabéns!). 
+25 a 29.9: Levemente acima do peso.  
+30 a 34.9: Obesidade grau I.  
+35 a 39.9: Obesidade grau II.  
+40 ou mais: Obesidade grau III.  
+
